@@ -2,6 +2,6 @@
 const BACKEND_URL = 'mymoviz-backend-ashen.vercel.app';
 
 // Insert the frontend URL given by Vercel in this variable
-const FRONTEND_URL = '';
+const FRONTEND_URL = 'mymoviz-frontend-chi-nine.vercel.app';
 
 module.exports = { BACKEND_URL, FRONTEND_URL }; // Do not edit/remove this line
